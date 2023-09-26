@@ -1,0 +1,67 @@
+{
+  "imagenesBienvenida": [
+      {
+      "imagen": "src/imgs/conoce-nuestros-productos-1.png",
+      "color" : "#D01140"
+      },
+      {
+        "imagen": "src/imgs/conoce-nuestros-productos-2.png",
+        "color" : "#FBACC2"
+      },
+      {
+        "imagen": "src/imgs/conoce-nuestros-productos-3.png",
+        "color" : "#808080"
+      }
+  ],
+  "loNuevo": [
+      {
+        "imagen": "src/imgs/TENIS-HOMBRE-3.png"
+      },
+      {
+        "imagen": "src/imgs/TENIS-MUJER-1.png"
+      },
+      {
+        "imagen": "src/imgs/TENIS-HOMBRE-1.png"
+      },
+      {
+        "imagen": "src/imgs/TENIS-INFANTIL-1.png"
+      }
+  ],
+  "productosHombre": [
+    {
+      "imagen": "src/imgs/TENIS-HOMBRE-1.png"
+    },
+    {
+     
+      "imagen": "src/imgs/TENIS-HOMBRE-2.png"
+    },
+    {
+      "imagen": "src/imgs/TENIS-HOMBRE-3.png"
+    },
+    {
+      "imagen": "src/imgs/TENIS-HOMBRE-4.png"
+    },
+    {
+     
+      "imagen": "src/imgs/TENIS-HOMBRE-5.png"
+    }
+  ],
+  "productosMujer": [
+    {
+      "imagen": "src/imgs/TENIS-MUJER-1.png"
+    },
+    {
+     
+      "imagen": "src/imgs/TENIS-MUJER-2.png"
+    }
+  ],
+  "productosInfantil": [
+    {
+      "imagen": "src/imgs/TENIS-INFANTIL-1.png"
+    }
+  ]
+  
+}
+  
+  
+    
