@@ -13,50 +13,38 @@
         "color" : "#808080"
       }
   ],
-  "loNuevo": [
-      {
-        "imagen": "src/imgs/TENIS-HOMBRE-3.png"
-      },
-      {
-        "imagen": "src/imgs/TENIS-MUJER-1.png"
-      },
-      {
-        "imagen": "src/imgs/TENIS-HOMBRE-1.png"
-      },
-      {
-        "imagen": "src/imgs/TENIS-INFANTIL-1.png"
-      }
-  ],
-  "productosHombre": [
+
+  "productos": [
     {
+      "index": 0,
       "imagen": "src/imgs/TENIS-HOMBRE-1.png"
     },
     {
-     
+      "index": 1,
       "imagen": "src/imgs/TENIS-HOMBRE-2.png"
     },
     {
+      "index": 2,
       "imagen": "src/imgs/TENIS-HOMBRE-3.png"
     },
     {
+      "index": 3,
       "imagen": "src/imgs/TENIS-HOMBRE-4.png"
     },
     {
-     
+      "index": 4,
       "imagen": "src/imgs/TENIS-HOMBRE-5.png"
-    }
-  ],
-  "productosMujer": [
+    },
     {
+      "index": 5,
       "imagen": "src/imgs/TENIS-MUJER-1.png"
     },
     {
-     
+      "index": 6,
       "imagen": "src/imgs/TENIS-MUJER-2.png"
-    }
-  ],
-  "productosInfantil": [
+    },
     {
+      "index": 7,
       "imagen": "src/imgs/TENIS-INFANTIL-1.png"
     }
   ]
